@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+![AI](https://img.shields.io/badge/Focus-Human--Centered%20AI-purple)
+
 # Human Cognition Measurement System (HCMS)
 
 ---
