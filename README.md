@@ -3,14 +3,33 @@
 ![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
 ![AI](https://img.shields.io/badge/Focus-Human--Centered%20AI-purple)
 
-
 # 🧠 Human Cognition Measurement System (HCMS)
 
 ---
 
-📄 **Preprint (DOI-backed)**  
-**Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding**  
-Zenodo (v1.0): https://doi.org/10.5281/zenodo.18269740
+📄 **Preprint (DOI-backed)**
+**Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding**
+Zenodo (v1.0): [https://doi.org/10.5281/zenodo.18269740](https://doi.org/10.5281/zenodo.18269740)
+
+---
+
+## 📑 Citation
+
+If you use or reference this work, please cite:
+
+**Shahid, M. R. (2026).**
+*Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding.*
+Zenodo. [https://doi.org/10.5281/zenodo.18269740](https://doi.org/10.5281/zenodo.18269740)
+
+```bibtex
+@article{shahid2026hcms,
+  title={Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding},
+  author={Shahid, Muhammad Rayan},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.18269740}
+}
+```
 
 ---
 
@@ -18,7 +37,15 @@ Zenodo (v1.0): https://doi.org/10.5281/zenodo.18269740
 
 The **Human Cognition Measurement System (HCMS)** is a research-grade cognitive assessment framework designed to move beyond right-or-wrong evaluation. Rather than treating intelligence as a static score, HCMS models **how a learner thinks**, **how confident they are**, **how consistent their reasoning remains**, and **how well-calibrated their understanding truly is**.
 
-This repository represents the **final consolidated research system and product implementation**, spanning **Phases 1–15** of structured development.
+This repository represents **a consolidated research system representing the current validated stage of HCMS development**, spanning **Phases 1–15** of structured investigation.
+
+---
+
+## 🧾 Abstract
+
+Traditional assessment systems equate correctness with understanding, overlooking metacognitive alignment and reasoning stability. This work introduces the **Human Cognition Measurement System (HCMS)**, a cognition-aware assessment framework that models understanding as a multidimensional construct integrating accuracy, confidence calibration, repeated-trial consistency, and robustness under controlled perturbation.
+
+Controlled experiments demonstrate that learners with comparable accuracy profiles can exhibit substantially different cognitive stability and confidence–accuracy alignment. Notably, confidence miscalibration is shown to predict degradation in reasoning consistency under perturbation—patterns that static test scores fail to capture. HCMS is presented as a diagnostic measurement instrument emphasizing interpretability, reproducibility, and cognitive validity.
 
 ---
 
@@ -120,6 +147,17 @@ HCMS was developed through **15 structured research phases**, including:
 
 ---
 
+## 🔬 Research Contributions
+
+This work makes the following contributions:
+
+1. Introduces **cognitive stability** as a measurable dimension of human understanding beyond correctness.
+2. Demonstrates that **confidence–accuracy misalignment** predicts reasoning degradation under perturbation.
+3. Provides a **diagnostic measurement framework** rather than a predictive scoring model.
+4. Offers interpretable, reproducible assessment signals suitable for educational and cognitive research.
+
+---
+
 ## 📄 Research Paper
 
 The **complete research paper** is available at:
@@ -183,6 +221,17 @@ This distinction enables:
 * ✅ Final product operational
 * ✅ Paper drafted
 * ✅ Ready for publication, demonstration, or extension
+
+---
+
+## 🔭 Future Work
+
+Planned extensions include:
+
+* Longitudinal cognitive stability analysis
+* Cross-task understanding transfer
+* Refined perturbation modeling
+* Expanded validation across learner populations
 
 ---
 
