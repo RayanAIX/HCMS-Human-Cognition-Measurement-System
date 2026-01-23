@@ -1,12 +1,32 @@
 cff-version: 1.2.0
+
 title: "Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding"
-message: "If you use this work, please cite it as below."
+
+message: "If you use this software or the associated research, please cite it as below."
+
 type: software
+
 authors:
   - family-names: Shahid
     given-names: Muhammad Rayan
+
 doi: 10.5281/zenodo.18269740
-version: 1.0
+
+version: "1.0"
+
 date-released: 2026-01-16
+
 url: https://github.com/RayanAIX/HCMS-Human-Cognition-Measurement-System
+
 license: MIT
+
+keywords:
+  - Human-Centered AI
+  - Cognitive Modeling
+  - Confidence Calibration
+  - Cognitive Stability
+  - Explainable AI
+  - Educational Assessment
+  - AI Evaluation
+
+repository-code: https://github.com/RayanAIX/HCMS-Human-Cognition-Measurement-System
