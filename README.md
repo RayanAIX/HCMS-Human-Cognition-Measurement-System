@@ -189,6 +189,7 @@ If you use this work, please cite:
 ## 👤 Author
 
 **Muhammad Rayan Shahid**
+
 AI Researcher | Human-Centered AI | Cognitive Systems
 
 ---
